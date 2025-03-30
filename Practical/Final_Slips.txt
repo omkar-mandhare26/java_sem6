@@ -1,8 +1,0 @@
-Final University Practical Slips:* 
-1,2,4,6,7,9,12,13,17,18,20,21,22,24,28,29,30
-
-Done: 2a, 4a
-
-Do-able: 1a
-
-Not Possible: 1b, 2b, 4b
