@@ -1,10 +1,10 @@
 import java.sql.*;
 
-// Command to run : java -cp ~name.jar filename.java
+// Command to run : java -cp ~:name.jar filename.java
 public class s4a {
     public static void main(String[] args) {
         try {
-            String url = "jdbc:mysql://localhost:3306/testing?useSSL=false&allowPublicKeyRetrieval=true";
+            String url = "jdbc:mysql://localhost:3306/testing";
             String user = "root";
             String password = "edmfreak";
             String query = "DELETE FROM student WHERE name LIKE 'S%'";
